@@ -1,1 +1,1 @@
-# wordpress-social--links-widget
+# Social Links Widget
